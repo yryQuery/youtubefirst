@@ -1,0 +1,29 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: #fff;
+    background: linear-gradient(to right,#ebe726, #8b3163);
+}
+/* GENERAL STYLES */
+
+.page-container {
+    width: 480px;
+    max-width: 100%;
+    padding: 16px;
+}
+
+section {
+    margin-bottom: 32px;
+}
+
+section .section-title {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
